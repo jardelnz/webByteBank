@@ -34,5 +34,10 @@ Abra o negador na página `http://localhost:4200/`.
 -   A diferença do  _Two-way data binding_  para property binding;
 -   Capturar as informações de um formulário.
 
-**Aula 03 (in progress)**
+**Aula 03**
 
+- Utilizar o metadata @Output() para criar um evento para o seu componente.
+- Emitir eventos dentro do seu componente.
+- Utilizar o event binding para capturar o evento propagando pelo componente.
+
+**Aula 04 (in progress)**
