@@ -1,27 +1,38 @@
+
+
+
 # Bytebank
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+Este projeto está sendo desenvolvido de acordo com as aulas ministradas no curso de Angular da [Alura](https://twitter.com/AluraOnline).
 
-## Development server
+O projeto consiste na implementação de duas funcionalidades dentro do banco digital ByteBank, que é o cadastro de uma nova transferência e a exibição dessas transferências já cadastradas.
+  
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Orientação para execução
 
-## Code scaffolding
+**Angular CLI** versão `10.X`
+**Node.js** versão `14.X`
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Após realizar a configuração execute `ng serve` no terminal. 
+Abra o negador na página `http://localhost:4200/`.
+   
+## Conteúdos das aulas
 
-## Build
+**Aula 01**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+-   Instalar e utilizar o Angular CLI;
+-   Criar uma aplicação Angular do zero;
+-   Utilizar o próprio CLI para levantar um servidor de desenvolvimento;
+-   Como é organizada uma aplicação Angular;
+-   Criar e utilizar um componente Angular.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+**Aula 02**
 
-## Running end-to-end tests
+-   Importar as funcionalidades de formulário para o projeto;
+-   Escutar o evento de  _submit_  do formulário através de  _event binding_;
+-   A diferença do  _Two-way data binding_  para property binding;
+-   Capturar as informações de um formulário.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+**Aula 03 (in progress)**
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
