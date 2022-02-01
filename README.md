@@ -58,4 +58,8 @@ Abra o negador na página `http://localhost:4200/`.
 - Como enviar os dados de um formulário para a API;
 - Como exibir em tela os dados obtidos de uma API.
 
-**Aula 07 (in progress)**
+**Aula 07**
+
+- Importar e utilizar o módulo RouterModule;
+- Adicionar rotas aos componentes transformando-os em páginas;
+- Utilizar o RouterLink para melhorar a usabilidade de nossa aplicação.
