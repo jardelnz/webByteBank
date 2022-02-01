@@ -51,4 +51,11 @@ Abra o negador na página `http://localhost:4200/`.
 - Utilizar a diretiva *ngIf;
 - Trabalhar com Service.
 
-**Aula 06 (in progress)**
+**Aula 06**
+
+- Como construir um mock de uma API REST com o json-server;
+- Importar e utilizar o módulo HttpClient;
+- Como enviar os dados de um formulário para a API;
+- Como exibir em tela os dados obtidos de uma API.
+
+**Aula 07 (in progress)**
