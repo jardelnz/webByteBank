@@ -46,4 +46,9 @@ Abra o negador na página `http://localhost:4200/`.
 - Exibir uma lista de dados através da diretiva *ngFor;
 - Configurar o formato de horas na aplicação.
 
-**Aula 05 (in progress)**
+**Aula 05**
+
+- Utilizar a diretiva *ngIf;
+- Trabalhar com Service.
+
+**Aula 06 (in progress)**
